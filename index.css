@@ -43,7 +43,7 @@ nav a:hover {
     text-align: center;
     padding: 90px 20px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-                      url("/IA3/images/banner.jpg");
+                      url("../images/banner.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
